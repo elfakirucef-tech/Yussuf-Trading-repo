@@ -1,0 +1,54 @@
+GUIDE DE RÉFÉRENCE STRICT : SMART MONEY CONCEPTS (SMC) APPLIQUÉ À L'OR (XAU/USD)
+
+1. CARTOGRAPHIE DE LA STRUCTURE DE MARCHÉ (MARKET STRUCTURE)
+- Trend Majeur (H4/H1) : Identifier les Higher Highs (HH) / Higher Lows (HL) en tendance haussière, et Lower Highs (LH) / Lower Lows (LL) en tendance baissière.
+- BOS (Break of Structure) : Cassure du dernier sommet/creux confirmant la continuation de la tendance dans la même unité de temps. Nécessite une clôture de bougie au-delà du niveau.
+- CHoCH (Change of Character) : Première cassure du dernier bas/haut structurel qui indique un retournement potentiel de tendance. C'est le signal d'alerte pour chercher une entrée inverse.
+
+2. ZONES D'INTÉRÊT (POI - POINTS OF INTEREST)
+- Order Blocks (OB) : La dernière bougie baissière avant un mouvement haussier impulsionnel (Bullish OB) ou la dernière bougie haussière avant un mouvement baissier impulsionnel (Bearish OB). L'OB doit impérativement avoir provoqué un BOS ou un CHoCH.
+- Fair Value Gap (FVG) / Inefficience : Déséquilibre de prix créé par une bougie impulsionnelle forte. Se définit entre le Low de la bougie 1 et le High de la bougie 3. Le prix tend à revenir "mitiger" (remplir) ce vide à hauteur de 50% ou 100%.
+- Premium vs Discount : Utiliser l'outil de retracement de Fibonacci de 0 à 100% sur le dernier range.
+  * Acheter uniquement en zone "Discount" (sous les 50%).
+  * Vendre uniquement en zone "Premium" (au-dessus des 50%).
+
+3. LIQUIDITÉ (LIQUIDITY MANAGEMENT)
+- L'or est un marché hautement manipulé. Identifier les zones de liquidité de détail : Equal Highs (EQH / Double Top) et Equal Lows (EQL / Double Bottom).
+- BSL (Buy Side Liquidity) : Stop loss des vendeurs situés au-dessus des sommets.
+- SSL (Sell Side Liquidity) : Stop loss des acheteurs situés sous les creux.
+- Inducement (IDM) : Piège de marché incitant les traders de détail à entrer trop tôt avant la véritable impulsion sur l'Order Block majeur.
+GUIDE DES INDICATEURS POTENTIELS ET STRATÉGIE DE VOLATILITÉ PAR SESSION
+
+1. RSI (RELATIVE STRENGTH INDEX) - PARAMÈTRE INTERNE : 14 PÉRIODES
+- Zones de survente (<30) et surachat (>70). Sur l'or, ne jamais vendre/acheter uniquement sur ce critère.
+- DIVERGENCES STANDARDS (Retournement) :
+  * Haussière : Le prix fait des plus bas de plus en plus bas (Lower Lows), mais le RSI fait des plus bas de plus en plus hauts (Higher Lows).
+  * Baissière : Le prix fait des plus hauts de plus en plus hauts (Higher Highs), mais le RSI fait des plus hauts de plus en plus bas (Lower Highs).
+- DIVERGENCES CACHÉES (Continuation) :
+  * Haussière : Le prix fait des creux plus hauts (HL), mais le RSI fait des creux plus bas. Signale une continuation de tendance haussière dans un OB.
+
+2. VOLATILITÉ ET HORAIRES DES SESSIONS (HEURE UTC)
+- Tokyo (00:00 - 09:00 UTC) : Volume faible. Stratégie : Tracer l'Asia Range. Ne pas initier de swing trade. Attendre la fin de session pour voir où se situent les liquidités non touchées.
+- Londres (07:00 - 16:00 UTC) : Injection massive de capitaux. Stratégie : Repérer la "London Manipulation" (Judas Swing) qui va chasser la liquidité de l'Asia Range avant de partir dans la vraie direction du jour.
+- New York (13:00 - 22:00 UTC) : Volatilité maximale. Stratégie : Chercher les réactions sur les News économiques US (CPI, NFP, FOMC). Si Londres a créé un sommet net, New York viendra souvent le tester ou le chasser avant le reversement de fin de journée.
+
+3. FILTRE DE VOLATILITÉ COMPLÉMENTAIRE (ATR - AVERAGE TRUE RANGE)
+- Utiliser l'ATR (14) sur l'unité de temps M15 et H1.
+- Si l'ATR est inférieur à sa moyenne mobile, la volatilité est faible : privilégier les Take Profit courts aux extrêmes des ranges de sessions.
+- Si l'ATR explose, la volatilité est forte : élargir légèrement le Stop Loss derrière l'Order Block majeur et viser des extensions d'Elliott plus lointaines.
+GUIDE DE RÉFÉRENCE STRICT : THÉORIE DES VAGUES D'ELLIOTT APPLIQUÉE À L'OR (XAU/USD)
+
+1. CYCLE IMPULSIF MAJEUR (5 VAGUES DIRECTIONNELLES)
+- Vague 1 : Impulsion initiale de retournement.
+- Vague 2 : Retracement partiel de la Vague 1. Règles strictes : Ne doit JAMAIS retracer au-delà du début de la Vague 1. Retracement fréquent entre 50% et 61.8% de Fibonacci.
+- Vague 3 : La vague la plus puissante et volatile sur l'or. Règle stricte : Ne peut JAMAIS être la plus courte des trois vagues impulsives (1, 3, 5). Extension fréquente à 161.8% ou 261.8% de la Vague 1.
+- Vague 4 : Retracement complexe et latéral. Règle stricte : Ne doit JAMAIS entrer dans le territoire de prix du sommet de la Vague 1 (sauf structure en diagonale terminale). Retracement fréquent à 38.2% de la Vague 3.
+- Vague 5 : Poussée finale souvent accompagnée de divergences RSI majeures avant le retournement.
+
+2. CYCLE CORRECTIF (3 VAGUES A-B-C)
+- Correction en Zig-Zag (5-3-5) : Correction profonde.
+- Correction en Flat (3-3-5) : Correction latérale rangeant dans les structures de sessions.
+- Triangle (3-3-3-3-3) : Se produit généralement en Vague 4 avant l'explosion de la Vague 5.
+
+3. CONVERGENCE ELLIOTT ET SMC
+- La Vague 2 ou la Vague 4 d'Elliott doit idéalement terminer sa course à l'intérieur d'un Order Block (OB) ou d'un Fair Value Gap (FVG) identifié en SMC pour valider le point d'entrée à haute probabilité.
